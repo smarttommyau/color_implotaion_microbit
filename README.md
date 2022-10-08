@@ -1,3 +1,5 @@
+# Color implotation 
+Color implotation algrothm implemented with a function to setup color strip
 
 > Open this page at [https://smarttommyau.github.io/color_implotaion_microbit/](https://smarttommyau.github.io/color_implotaion_microbit/)
 
